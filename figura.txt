@@ -1,0 +1,5 @@
+wartosc C: 130
+gorny-lewy-rog: 30 9
+dolny-lewy-rog: 30 17
+gorny-prawy-rog: 130 9
+dolny-prawy-rog: 130 17
